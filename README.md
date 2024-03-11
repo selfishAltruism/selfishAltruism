@@ -1,6 +1,6 @@
 <div align="center">
 
-## What have i been doing
+## What Have I Been Doing
 ### [ 👉 Portfolio Page 👈 ](https://minkyukang.netlify.app/)
 
 
