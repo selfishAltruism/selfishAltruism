@@ -1,9 +1,5 @@
 <div align="center">
 
-## What Have I Been Doing
-### [ 👉 Portfolio Page 👈 ](https://minkyukang.netlify.app/)
-
-
 ## Well Used
 
 
