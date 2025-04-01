@@ -2,10 +2,10 @@
 
 <div align="center">
 
+# What I Can Do
+![image](https://github.com/user-attachments/assets/aaac3825-ae92-4a3c-8fad-dd1b39dab2a9)
+
 # What Have I Been Doing
  ### [ 👉 Portfolio Page 👈 ](https://kmklog.netlify.app)
-
-# What I Can Do
-![image](https://github.com/user-attachments/assets/611cd9e1-eb3e-40ef-a6c8-751f817bbbcc)
 
 </div>
