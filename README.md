@@ -1,16 +1,33 @@
-## Hi there 👋
+<div align="">
+ 
+# What Have I Been Doing
+ ### [ 👉 Portfolio Page 👈 ](https://kmklog.netlify.app)
 
-<!--
-**selfishAltruism/selfishAltruism** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# What I Can Do
 
-Here are some ideas to get you started:
+## 😎 Pretty well-used
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 💻 Language
+**Java Script** | **Type Script** | **HTML5**
+
+### 🚩 Framework
+**React** | **Next.js** | **React Native**
+
+### 💿 Tool
+**VS Code** | **Cursor AI** | **Vite** | **Webpack** | **ESLint**
+
+### 📖 Library
+**Axios** | **Zustand** | **TanStack Query** | **React Router** | **Emotion** | **Tailwind**
+
+## 🫡 Well-used
+
+### 💻 Language
+**C++** | **Python** | **Dart** | **Java**
+
+### 🚩 Framework
+**Flutter**
+
+### 📖 Library
+**Recoil** | **Redux** | **react-hook-form** | **Tiptap** | **react-doc-viewer** | **RN-async-storage** | **RN-ble-manager**
+
+</div>
