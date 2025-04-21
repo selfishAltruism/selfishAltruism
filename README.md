@@ -1,6 +1,6 @@
 
  
-## 📖 What Have I Been Doing
+# 📖 What Have I Been Doing
 
 <div align="center">
  
@@ -8,7 +8,9 @@
 
 </div>
 
-## 🛠️ What I Can Do
+
+
+# 🛠️ What I Can Do
 
 <div align="center">
  
