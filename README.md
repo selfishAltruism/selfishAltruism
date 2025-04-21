@@ -1,11 +1,17 @@
+
+ 
+## 📖 What Have I Been Doing
+
 <div align="center">
  
-# What Have I Been Doing
 ### [ 👉 Portfolio Page 👈 ](https://kmklog.netlify.app)
 
-# What I Can Do
+</div>
 
+## 🛠️ What I Can Do
 
+<div align="center">
+ 
 ### 😎 Pretty well-used
 
 **💻 Language**
