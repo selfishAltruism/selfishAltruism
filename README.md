@@ -26,7 +26,7 @@
 
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=for-the-badge&logo=reactnative&logoColor=white)
+![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=for-the-badge&logo=react&logoColor=white)
 
 **💿 Tool**
 
@@ -66,7 +66,7 @@
 ![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white)
 ![react-hook-form](https://img.shields.io/badge/react-hook--form-EC5990?style=for-the-badge&logo=reacthookform&logoColor=white)
 <br/>
-![Tiptap](https://img.shields.io/badge/Tiptap-6B6B6B?style=for-the-badge&logo=tiptap&logoColor=white)
+![Tiptap](https://img.shields.io/badge/Tiptap-3178C6?style=for-the-badge&logo=react&logoColor=white)
 ![react-doc-viewer](https://img.shields.io/badge/react--doc--viewer-5B5D5E?style=for-the-badge&logo=react&logoColor=white)
 ![RN-async-storage](https://img.shields.io/badge/RN--async--storage-3C3C3C?style=for-the-badge&logo=react&logoColor=white)
 ![RN-ble-manager](https://img.shields.io/badge/RN--ble--manager-FF6633?style=for-the-badge&logo=react&logoColor=white)
