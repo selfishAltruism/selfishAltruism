@@ -2,9 +2,7 @@
 
 <div align="center">
  
-### [ 👉 Portfolio Web Page 👈 ](https://kmklog.netlify.app)
-
-### [ 🚧 V2 Still in Development ](https://kyu-log.vercel.app/)
+### [ Portfolio Web Page ](https://kyu-log.vercel.app/)
 
 </div>
 
